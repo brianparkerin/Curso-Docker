@@ -1,0 +1,57 @@
+Error with pre-create check: "This computer is running Hyper-V. VirtualBox won't boot a 64bits VM when Hyper-V is activated. Either use Hyper-V as a driver, or disable the Hyper-V hypervisor. (To skip this check, use --virtualbox-no-vtx-check)"
+Looks like something went wrong in step ´Checking if machine default exists´... Press any key to continue...
+
+
+Documuentation:
+
+habilitar hyper-v en windows 10
+https://www.youtube.com/results?search_query=habilitar+hyper-v+en+windows+10
+
+
+https://stackoverflow.com/questions/36885985/cannot-start-docker-after-installation-on-windows
+
+
+Docker para Windows o Docker Toolbox
+https://forums.docker.com/t/docker-for-windows-or-docker-toolbox/30387/4
+
+Docker Beginner Tutorial 6 - How to install DOCKER on WINDOWS ? Step by Step
+https://www.youtube.com/watch?v=ymlWt1MqURY
+
+
+______________________________________________________________________________________________
+
+Microsoft Hyper-V
+https://docs.docker.com/machine/drivers/hyper-v/
+
+
+Instalar Hyper-V en Windows 10
+https://docs.microsoft.com/es-es/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v?redirectedfrom=MSDN
+
+
+
+Crear una máquina virtual con Hyper-V
+https://docs.microsoft.com/es-es/virtualization/hyper-v-on-windows/quick-start/quick-create-virtual-machine
+
+echo "# NodeJs-AtlasMongoDB-GitPod" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/brianparkerin/NodeJs-AtlasMongoDB-GitPod.git
+git push -u origin master
+
+
+
+https://github.com/brianparkerin/NodeJs-AtlasMongoDB-GitPod
+
+https://a9af6695-95cb-4b25-8e4d-4cf85aad80eb.ws-eu01.gitpod.io/#/workspace/NodeJs-AtlasMongoDB-GitPod
+
+https://cloud.mongodb.com/v2/5e51535d909dfb651e9c7f28#clusters/edit?filter=starter
+
+
+
+
+
+
+
+
+
